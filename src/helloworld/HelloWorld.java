@@ -5,10 +5,7 @@
  */
 package helloworld;
 
-/**
- *
- * @author ericgreise
- */
+
 public class HelloWorld {
 
     /**
